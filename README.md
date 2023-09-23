@@ -3,7 +3,8 @@
 <br>
 
 <p align="center">
-<br>![아메리카노](https://github.com/seonghtun/Summer-Plane/assets/74886046/afe6b9dc-1461-4723-95cb-5b92eabf5301)
+![Uploading KakaoTalk_20230923_172107133.png…]()
+
 <br>
 
 <img src= "https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
