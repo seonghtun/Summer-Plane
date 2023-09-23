@@ -4,7 +4,8 @@
 
 <p align="center">
 
-![Uploading KakaoTalk_20230923_172107133.png…]()
+
+![KakaoTalk_20230923_172107133](https://github.com/seonghtun/Summer-Plane/assets/74886046/ba124a00-3abb-45e2-8013-bfb5ff733ff6)
 
 <br>
 
