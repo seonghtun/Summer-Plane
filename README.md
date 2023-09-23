@@ -3,8 +3,9 @@
 <br>
 
 <p align="center">
-<img width="400px" src="https://github.com/LeeMyungdeok/bike-rental-project/assets/115915362/8a87e8d2-42c2-4415-9613-8fcdd53744d2">
-<br><br>
+<br>![아메리카노](https://github.com/seonghtun/Summer-Plane/assets/74886046/afe6b9dc-1461-4723-95cb-5b92eabf5301)
+<br>
+
 <img src= "https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 <img src= "https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src= "https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
